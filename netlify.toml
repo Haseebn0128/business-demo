@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/products/*"
+  to = "/product?slug=:splat"
+  status = 200
